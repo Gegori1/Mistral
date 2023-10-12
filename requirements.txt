@@ -6,3 +6,4 @@ sentencepiece
 Xformers
 einops
 langchain
+protobuf
